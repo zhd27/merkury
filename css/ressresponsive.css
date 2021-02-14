@@ -1,12 +1,8 @@
 
-/*
+
 @media (min-width: 320px) and (max-width: 575.98px) {
 
 
-
-
-
-
     .navbar-nav .nav-item .nav-link {
         text-align: center;
         font-size: 14px;
@@ -32,92 +28,160 @@
         border-radius: 5px;
     }
 
- 
-
-@media (min-width: 576px) and (max-width: 767.98px) {
-
-        .navbar-nav .nav-item .nav-link {
-        text-align: center;
-        font-size: 18px;
-        color: white;
-        background-color: gray;
-        border-radius: 5px;
-        margin-bottom: 3px;
-    }
-    .navbar-nav .nav-item :hover.nav-link {
-    color: palevioletred;
+     .text_content img{
+        display: none;
     }
 
-    .navbar-nav .nav-item .nav-link.active {
-        color: white;
-        font-weight: bold;
+    .flow:after{
+        display: none;
     }
 
-    .navbar-light .navbar-toggler {
-        color: gray;
+    .flow2:after{
+        display: none;
+    }
+    
+    .left_psd h5:after{
+        display: none;
+    }
+    .psd_imag span{
+        display: none;
+    }
+    .rest_content a:before{
+        display: none;
+    }
+    .rest_content a:after{
+        display: none;
+    }
+    
+    .right_psd h5:after{
+        display: none;
+    }
+    .rest_content a{
+        padding: 15px 60px;
+    }
+    .text_content h2 {
+            font-size: 33px
+    }
+
+    .text_content h4 {
+        font-size: 25px;
+    }
+    .menu {
+        padding-top: 19px;
+    padding-bottom: 100px;
     }
     .navbar-toggler-icon{
-     background-color: palevioletred;
-        border-radius: 5px;
+        background-color: grey;
     }
- 
+    .text_content{
+        margin-top: 50px;
+    }
+    .workflow {
+    margin-top: 80px;
+    margin-bottom: 100px
+    }
+    .workfolow_content {
     
-   
+    margin-top: 60px;
+    }
+    .workfolow_content p {
+        margin-bottom: 50px;
+    }
+    
+    .hoyna{
+        padding-top: 20px;
+    padding-bottom: 30px;
+    box-shadow: -4px -32px 57px #f6f7fa;
+        border-top-left-radius: 25px;
+        border-top-right-radius: 25px;
 
-@media (min-width: 768px) and (max-width: 991.98px) {
+    }
+    .browser {
+        display: none;
+    }
+    .today spn{
     
-    .navbar-nav .nav-item .nav-link {
+     margin: auto;
+       
+    }
+    .february{
         text-align: center;
-        font-size: 14px;
-        color: white;
-        background-color: gray;
-        border-radius: 5px;
-        margin-bottom: 3px;
     }
-    .navbar-nav .nav-item :hover.nav-link {
-    color: palevioletred;
+    .knowledge i{
+        display: none;
     }
-
-    .navbar-nav .nav-item .nav-link.active {
-        color: white;
-        font-weight: bold;
+    .draghere img {
+ 
+    top: 7px;
+    left: 75px;
     }
-
-    .navbar-light .navbar-toggler {
-        color: gray;
+    .headers h4{
+        text-align: center;
     }
-    .navbar-toggler-icon{
-     background-color: palevioletred;
-        border-radius: 5px;
+    .right_drag h2 {
+        font-size: 50px;
+        text-align: center;
+    }
+    .right_drag p{
+        text-align: justify;
+        font-size: 16px;
+    }
+    .psd_imag{
+        display: none;
+    }
+    .head h2 {
+    font-size: 44px;
+    }
+    .left_psd {
+    margin-top: 13px;
+        text-align: center;
+    }
+    .draghere {
+    
+     margin-left: 0px;
+    }
+    .left_psd p{
+        width: 100%;
+    }
+    .right_psd {
+    margin-top: 50px;
+      
+    }
+    .right_psd h5{
+        text-align: center;
+    }
+    .right_psd p {
+        width: 100%;
+        text-align: center
+        
+    }
+    
+    .psd {
+    padding-top: 80px;
+    padding-bottom: 50px;
+    box-shadow: 0px 13px 26px #f6f7fa;
+    }
+    
+    .background_color {
+    background-color: white;
+    padding: 36px 0px;
+    }
+        
+    .price_head h2 {
+    font-size: 37px;
+    margin-bottom: 19px;
+    }
+    .right_footer{
+        display: none;
     }
     
     
+    .hardwork {
+        margin-right: 0px;
+    }
 
-@media (min-width: 992px) and (max-width: 1199.98px) {
-    .navbar-nav .nav-item :hover.nav-link {
-    color: palevioletred;
-    }
-    .Menu_second {
-
-    width: 80%;
-    margin-top: 100px;
-    }
-    .Menu_second h1 { 
-    font-size: 53px;
-    }
-    .sit_content {
-    padding-top: 75px;
-    }
-    .content_para{
-        margin-bottom: 20px;
+    .left_footer p{
+        text-align: center;
     }
     
-}
-
-@media (min-width: 1400px) {
-    .navbar-nav .nav-item :hover.nav-link {
-    color: palevioletred;
-    }
-}
-
-*/
+    
