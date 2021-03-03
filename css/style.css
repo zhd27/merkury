@@ -89,6 +89,7 @@ a,a:hover{
     left: 120px;
     margin-top: 80px;
 }
+
 .workflow{
     margin-top: 230px;
     margin-bottom: 140px;
@@ -143,6 +144,7 @@ a,a:hover{
     height: 1px;
     width: 200px;
 }
+/*
 .browser{
 
           background: url(../image/banner_righfinalt.png);
@@ -152,8 +154,10 @@ a,a:hover{
      
 
 }
+*/
 .browser_content{
 padding-bottom: 50px;
+    padding-left: 100px
   
 }
 
@@ -179,20 +183,20 @@ padding-bottom: 50px;
 
 }
 .nope h2{
-            font-size: 50px;
+            font-size: 40px;
     font-weight: 100;
     color: #0e1a35;
     margin: 40px 0px;
    
 }
+
 .hoyna{
    padding-top: 60px;
-    padding-bottom: 50px;
-background-color: #f6f7fa;
-   box-shadow: 6px -32px 57px #f6f7fa;
-    border: transparent;
+    padding-bottom: 60px;
+
    
 }
+*/
 .headers{
     margin-bottom: 30px;
 }
@@ -544,7 +548,6 @@ position: absolute;
 
 .right_footer ul:nth-last-child(1) li{
     padding: 13px 7px;
-  
 }
 footer{
     background-color: #0e1a35;
