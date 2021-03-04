@@ -219,7 +219,10 @@
     .left_footer p{
         text-align: center;
     }
-    
+    .psd_imag {
+    position: absolute;
+    top: 524px;
+    }
     
 }
 /*    small device sm*/
